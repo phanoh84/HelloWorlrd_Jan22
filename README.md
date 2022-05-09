@@ -1,1 +1,3 @@
-# HelloWorlrd_Jan22
+# maven-project
+
+Simple Maven Project
